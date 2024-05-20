@@ -118,7 +118,6 @@
 
   <p align="center">
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white" height="28px"></a>
-    <a href="#"><img alt="opencv" src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white" height="28px"></a>
     <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" height="28px"></a>
     <a href="#"><img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" height="28px"/></a>
     <a href="#"><img alt="pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white" height="28px"/></a>
