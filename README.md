@@ -16,7 +16,7 @@ const akshatManohar = {
         tools: ["Docker", "Redis", "PgAdmin", "Git", "Postman"],
         deployment: ["GitHub Pages", "Heroku", "Firebase", "Vercel", "AWS"],
     },
-    designTools: ["Figma", "Adobe Photosop"],
+    designTools: ["Figma", "Adobe Photoshop"],
     motto: "Never stop learning and building! 🚀",
 };
 ```
