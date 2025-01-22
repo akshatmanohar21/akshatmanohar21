@@ -12,7 +12,7 @@ const akshatManohar = {
         languages: ["JavaScript", "TypeScript", "Python", "C++", "Dart", "Java", "PHP"],
         frontend: ["HTML", "CSS", "JavaScript", "React", "TailwindCSS", "Bootstrap"],
         backend: ["Node.js", "Express", "Flask", "Django"],
-        deployment: ["GitHub Pages", "Heroku", "Firebase", "Vercel"],
+        deployment: ["GitHub Pages", "Heroku", "Firebase", "Vercel", "AWS"],
     },
     designTools: ["Figma", "Adobe XD"],
     motto: "Never stop learning and building! 🚀",
