@@ -70,8 +70,6 @@ const akshatManohar = {
 
 <div align="center">
 
-  ![Snake animation](https://github.com/akshatmanohar/akshatmanohar21/blob/output/github-contribution-grid-snake-dark.svg)
-
   ---
   #### <img src="https://media.giphy.com/media/WygrrSksa7x4PHFXxM/giphy.gif" height="30"> <em><b>Always up for a chat and geeking out about all things tech!</b> 💻💡</em>
 
