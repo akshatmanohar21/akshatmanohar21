@@ -1,4 +1,4 @@
-[![MasterHead](https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif)]
+
 
 <h1 align="center">Hi 👋, I'm Akshat Manohar</h1>
 <h3 align="center">An Enthusiastic Web Developer</h3>
