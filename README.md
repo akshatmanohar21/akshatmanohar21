@@ -1,19 +1,19 @@
 
 
 <h1 align="center">Hi 👋, I'm Akshat Manohar</h1>
-<h3 align="center">An Enthusiastic Web Developer</h3>
+<h3 align="center">An Enthusiastic Full Stack Developer</h3>
 
 <h2>A little more about me...  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 
 ```javascript
 const akshatManohar = {
-    bio: "Hi there! I'm Akshat, a passionate Web Developer who loves to create beautiful and functional web applications.",
+    bio: "Hi there! I'm Akshat, a passionate Developer who loves to create functional applications.",
     techStack: {
-        languages: ["JavaScript", "TypeScript", "Python", "C++", "Dart", "Java", "PHP"],
-        frontend: ["HTML", "CSS", "JavaScript", "React", "TailwindCSS", "Bootstrap"],
+        languages: ["JavaScript", "TypeScript", "Python", "C++", "PHP"],
+        frontend: ["HTML", "CSS", "JavaScript", "TypeScript" "React", "TailwindCSS"],
         backend: ["Node.js", "Express", "Flask", "Django"],
         databases: ["MongoDB", "PostgreSQL"],
-        tools: ["Docker", "Redis", "PgAdmin", "Git", "Postman"],
+        tools: ["Docker", "Redis", "PgAdmin", "Git", "Postman", "Jest", "Jira"],
         deployment: ["GitHub Pages", "Heroku", "Firebase", "Vercel", "AWS"],
     },
     designTools: ["Figma", "Adobe Photoshop"],
