@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Akshat Manohar</h1>
-<h3 align="center">An Enthusiastic Full Stack Developer</h3>
+<h3 align="center">An Enthusiastic Backend Developer</h3>
 
 <h2>A little more about me...  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 
@@ -9,14 +9,12 @@
 const akshatManohar = {
     bio: "Hi there! I'm Akshat, a passionate Developer who loves to create functional applications.",
     techStack: {
-        languages: ["JavaScript", "TypeScript", "Python", "C++", "PHP"],
-        frontend: ["HTML", "CSS", "JavaScript", "TypeScript" "React", "TailwindCSS"],
-        backend: ["Node.js", "Express", "Flask", "Django"],
-        databases: ["MongoDB", "PostgreSQL"],
-        tools: ["Docker", "Redis", "PgAdmin", "Git", "Postman", "Jest", "Jira"],
-        deployment: ["GitHub Pages", "Heroku", "Firebase", "Vercel", "AWS"],
+        languages: ["Python", "C++", "Java", "Golang", "Javascript"],
+        backend: ["Falcon", "Springboot", "Node.js", "Express"],
+        databases: ["PostgreSQL", "MongoDB"],
+        tools: ["Docker", "Elasticstack", "Redis", "PgAdmin", "Git", "Postman", "Jest"],
+        deployment: ["AWS", "GitHub Pages", "Heroku", "Firebase"],
     },
-    designTools: ["Figma", "Adobe Photoshop"],
     motto: "Never stop learning and building! 🚀",
 };
 ```
@@ -43,15 +41,6 @@ const akshatManohar = {
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
   </a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" height="28px"></a>
-</p>
-
-### Frontend Development
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-        badge&logo=react&logoColor=61DAFB" height="28px"/> </a>
 </p>
 
 ### Backend Development
